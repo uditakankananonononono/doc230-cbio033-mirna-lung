@@ -1,0 +1,14 @@
+{
+ "GPL21263.txt": {
+  "sha256": "7432f3459d1ed411fe06e49de501370fab9368e6df9e6768c2567e0cbf1bfb8f",
+  "bytes": 1663185
+ },
+ "GSE137140_series_matrix.txt.gz": {
+  "sha256": "e177b8f599763b990137576fbb1a089551f46c228087bfa01b337cd795837708",
+  "bytes": 45699995
+ },
+ "mirbase.fasta.gz": {
+  "sha256": "974753a1e7a2603efb6d84fc3ffc0e38e017e82bacf25dbc4b692072b3dd63c5",
+  "bytes": 2568390
+ }
+}
